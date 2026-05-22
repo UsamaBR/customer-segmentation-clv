@@ -4,7 +4,7 @@ End-to-end customer analytics on a UK gift retailer's transaction history:
 segmenting 5,248 retail customers, predicting 6-month lifetime value, and 
 surfacing insights through an interactive Streamlit dashboard.
 
-**Live app:** *[your-deploy-url-here]*
+**Live app:** https://customer-segmentation-clv.streamlit.app
 
 ---
 
