@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Raw data (too large for git)
+data/raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
